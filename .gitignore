@@ -1,0 +1,5 @@
+jacob@jacob-ROS-VirtualBox:~$ which code
+/usr/bin/code
+jacob@jacob-ROS-VirtualBox:~$ cd ~/usr/bin/code
+bash: cd: /home/jacob/usr/bin/code: No such file or directory
+jacob@jacob-ROS-VirtualBox:~$ cd ~/usr/bin/code
